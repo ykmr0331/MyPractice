@@ -9,7 +9,7 @@ public class J230519__A_VariableUseExample {
 		
 		int totalMinute = (hour*60) + minute; 
 		//totalMinute이라는 변수를 생성하고 hour, minute변수를 사용해 totalMinute 변수에 데이터 입력
-		System.out.println("총" + totalMinute + "분");//이번에는 총 몇분인지로 나타냄
+		System.out.println("총" + totalMinute + "분");//이번에는 총 몇분인지로 나타냄/
 	
 	}
 
