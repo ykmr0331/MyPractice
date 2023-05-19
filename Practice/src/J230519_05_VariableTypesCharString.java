@@ -1,5 +1,5 @@
 
-public class J230519_05_VariableTypesChar {
+public class J230519_05_VariableTypesCharString {
 
 	public static void main(String[] args) {
 		/*
@@ -57,6 +57,35 @@ public class J230519_05_VariableTypesChar {
 		 * 	-문자형 변수(c1,c2,c3)
 		 *  -문자형 리터럴: 'A', '힣', 'a', '1', '★'
 		 * */
+		System.out.println("-------문자열형(String)----------");
+		String str1 ="오늘은";
+		String str2 ="금요일";
+		String str3 ="변수를 공부합니다.";
+		System.out.println(str1);	
+		System.out.println(str2);	
+		System.out.println(str3);
+		/*
+		 * 문자열 결합연산자( + )
+		 */
+		String str4 = str1 + " "+ str2+ " " + str3;
+		System.out.println(str4);	
+
+		String name = "김경호";
+		int age = 34;
+		char gender = 'M';
+		double height = 182.23;
+		double weight = 63.8;
+		
+		String myInfo = name + " " + age+ " " + gender+ " " + height+ " " + weight;
+		
+		
+		System.out.println("--------------------------------------------------------------");
+		System.out.println("이름 나이 성별 키 몸무게");
+		System.out.println("--------------------------------------------------------------");
+		System.out.println(myInfo);
+		System.out.println(name + " " + age+ " " + gender+ " " + height+ " " + weight);
+		
+		
 		
 	}
  
