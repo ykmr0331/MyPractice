@@ -1,6 +1,6 @@
 package chap01;
 
-public class J230519__A_VariableUseExample {
+public class J230519_A_VariableUseExample {
 
 	public static void main(String[] args) {
 		int hour =3;//hour 변수 선언 변수 데이터 삽입 동시에
