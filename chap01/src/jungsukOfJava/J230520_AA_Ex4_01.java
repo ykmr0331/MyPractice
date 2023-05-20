@@ -1,6 +1,6 @@
 package jungsukOfJava;
 
-public class J230520_AA_Ex4_1 {
+public class J230520_AA_Ex4_01 {
 
 	public static void main(String[] args) {
 		int score = 80; //int형 변수 score 선언과 레터럴 데이터 대입
