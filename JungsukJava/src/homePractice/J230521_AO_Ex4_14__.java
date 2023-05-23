@@ -1,4 +1,4 @@
-package jungsukOfJava;
+package homePractice;
 
 public class J230521_AO_Ex4_14__ {
 

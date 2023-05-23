@@ -1,4 +1,4 @@
-package jungsukOfJava;
+package homePractice;
 
 import java.util.Scanner; //java.util패키지 안에 있는 Scanner 클래스를 이용하기 위해 선언
 

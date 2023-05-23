@@ -1,4 +1,4 @@
-package jungsukOfJava;
+package homePractice;
 
 import java.util.Scanner; //Scanner함수로 숫자 입력하기위해 넣은것 정확히 뭔진모르겠어
 //??  Scanner 클래스를 사용하기 위해 해당 클래스를 포함시키기 위한 선언입니다. 

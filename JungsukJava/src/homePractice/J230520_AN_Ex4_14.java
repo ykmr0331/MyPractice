@@ -1,4 +1,4 @@
-package jungsukOfJava;
+package homePractice;
 import java.util.*; //java.util패키지에 있는거를 사용하려는거 같은데 *는 솔직히 모르겠음
 						// ?? java.util 패키지에서 모든 클래스를 사용하기 위해 import java.util.*; 구문을 사용합니다. 
 						// ??  *는 와일드카드(import wildcard)로, 해당 패키지의 모든 클래스를 import하라는 의미입니다.

@@ -1,4 +1,4 @@
-package jungsukOfJava;
+package homePractice;
 
 import java.util.Scanner; //java.util패키지에 있는 Scanner 클래스를 사용하기 위해 선언함
 							// ?? 정확히는 Scanner클래스를 사용하기 위해 객체를 생성하는 것이다. 

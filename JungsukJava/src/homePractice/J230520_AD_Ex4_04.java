@@ -1,4 +1,4 @@
-package jungsukOfJava;
+package homePractice;
 
 import java.util.Scanner; //Scanner함수를 사용하기 위해서 선언함
 						  // ??  java.util 패키지에 속한 Scanner 클래스를 현재 소스 파일에서 사용하기 위해 포함시킨 것입니다.
