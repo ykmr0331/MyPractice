@@ -10,15 +10,40 @@ public class J230530_Account {
 	
 	//ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ메소드는 모두 접근제한자 public으로 설정
 	//ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 외부에서 멤버변수에 접근 못하기 때문에 메소드로 접근하기 위해
+	
+	
+	
 	/*
 	 * 계좌데이타를 대입
 	 */
+	
+	
+	
+	public J230530_Account(int no, String owner, int balance, double iyul) {
+		this.no =no;
+		this.owner = owner;
+		this.balance = balance;
+		this.iyul = iyul;
+	}
+	
+	
+	
+	public J230530_Account() {
+		
+	}
+
+
+
 	public void setAccountData(int no,String owner,int balance,double iyul) {
 		this.no=no;
 		this.owner=owner;
 		this.balance=balance;
 		this.iyul=iyul;
 	}
+	
+	
+
+
 	/*
 	 * 입금
 	 */
